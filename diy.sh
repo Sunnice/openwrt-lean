@@ -16,9 +16,8 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/tty228/luci-app-serverchan.git package/serverchan
 git clone https://github.com/skyformat99/eqos.git package/eqos
 git clone https://github.com/ElonH/Rclone-OpenWrt.git package/rclone
-git clone https://github.com/Sunnice/luci-app-vssr.git package/vssr
 git clone https://github.com/Leo-Jo-My/luci-app-vssr-plus package/luci-app-vssr-plus
-git clone https://github.com/Leo-Jo-My/my package/my  #依赖包
+git clone https://github.com/Leo-Jo-My/my package/my
 git clone https://github.com/frainzy1477/luci-app-clash.git package/clash
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git package/unblockneteasemusicadvance
@@ -29,6 +28,7 @@ git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
 git clone https://github.com/Mrbai98/luci-theme-atmaterial.git package/luci-theme-atmaterial
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/luci-theme-opentomato
+git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly.git package/luci-theme-Butterfly
 git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luci-theme-Butterfly-dark
 git clone https://github.com/Leo-Jo-My/luci-theme-leo.git package/luci-theme-leo
 git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-purple
